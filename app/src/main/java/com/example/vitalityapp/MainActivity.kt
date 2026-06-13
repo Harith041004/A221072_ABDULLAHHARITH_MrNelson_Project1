@@ -108,6 +108,6 @@ fun VitalityBottomBar(currentRoute: String?, onNavigate: (String) -> Unit) {
                     indicatorColor = PrimaryPurple.copy(alpha = 0.1f)
                 )
             )
-        }
+    :
     }
 }
